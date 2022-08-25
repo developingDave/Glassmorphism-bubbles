@@ -114,7 +114,7 @@ backdrop-filter: blur(2px) brightness(1.2);
   display: flex;
   flex-direction: column;
   justify-content: center;
-  color: white;
+  color: white; /* comment
 }
 .box .list .content .rank
 {
